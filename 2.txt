@@ -1,0 +1,11 @@
+
+				Date Posted: 1 November 
+				company: Understanding Recruitment
+				Job Title: Python Developer
+				Salary: £65,000 - £110,000 per annum
+				Location: London
+				Time: Permanent, full-time
+				Work from home: Yes
+				Description: Python Developer Location: London with 3 days work from home. Salary: 65-110k stock options (depending on experience) Python Developer (Django, React, AWS) - We are actively seeking a Python Developer to join our brand new payments startup. You will be...
+				More info: /jobs/python-developer/44466843?source=searchResults&filter=%2fjobs%2fpython-jobs
+			

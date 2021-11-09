@@ -1,0 +1,11 @@
+
+				Date Posted: 28 September 
+				company: intro Consulting Ltd
+				Job Title: Python Developer
+				Salary: £40,000 - £90,000 per annum
+				Location: London
+				Time: Permanent, full-time
+				Work from home: Yes
+				Description: Python Developer As a Python Developer, you will contribute to the development of a highly transactional platform, focusing on receiving and issuing payments in hundreds of currencies. Our client’s platform is a single platform (20 Services) with 3 distinct...
+				More info: /jobs/python-developer/43463925?source=searchResults&filter=%2fjobs%2fpython-jobs
+			

@@ -1,0 +1,11 @@
+
+				Date Posted: 27 October 
+				company: IntaPeople
+				Job Title: Python Developer
+				Salary: £250.00 - £350.00 per day
+				Location: Shropshire
+				Time: Contract, full-time
+				Work from home: No
+				Description: Python Developer Location – Remote Duration – 3 months IR35 – Inside Sector – Insurance We are looking for an experienced Python developer to help develop back-end rating capability. Experience: Solid experience developing backend services using Python...
+				More info: /jobs/python-developer/44490105?source=searchResults&filter=%2fjobs%2fpython-jobs
+			

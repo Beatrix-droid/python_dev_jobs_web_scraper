@@ -1,0 +1,11 @@
+
+				Date Posted: Yesterday 
+				company: Understanding Recruitment
+				Job Title: Python Developer
+				Salary: £80,000 - £100,000 per annum
+				Location: London
+				Time: Permanent, full-time
+				Work from home: Yes
+				Description: Python Developer - FinTech Management Salary up to 100k plus 30% bonus and excellent benefits Python Developer (Django, Docker, AWS) - We are actively seeking a Python Developer to join our FinTech Risk Management team. They have offices in and around...
+				More info: /jobs/python-developer/44628772?source=searchResults&filter=%2fjobs%2fpython-jobs
+			

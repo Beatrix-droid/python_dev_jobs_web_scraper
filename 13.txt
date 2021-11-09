@@ -1,0 +1,11 @@
+
+				Date Posted: 7 October 
+				company: BCT Resourcing 
+				Job Title: Python Engineer
+				Salary: £30,000 - £40,000 per annum
+				Location: Cambridgeshire
+				Time: Permanent, full-time
+				Work from home: No
+				Description: Python Engineer Do you possess knowledge of Python? A thriving software house in Cambridge is looking for a new engineer. It is a software engineering role, just on the test automation system rather than external products. Written in Python that interfaces...
+				More info: /jobs/python-engineer/44308853?source=searchResults&filter=%2fjobs%2fpython-jobs
+			
